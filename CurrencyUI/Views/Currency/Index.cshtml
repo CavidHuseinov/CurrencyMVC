@@ -1,0 +1,22 @@
+﻿@model CurrencyVM;    
+
+<h1>Ən son yenilənmə tarixi<span>@Model.Date.ToString("dd.MM.yyyy HH:mm")</span></h1>
+<p class="update-info">Bütün məzənnələr 24 saatdan bir yenilənir.<span><b> @Model.Base</b> nəzərən hesablanır</span></p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Pul Vahidi</th>
+            <th>Məzənnə</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var pair in Model.Rates)
+        {
+            <tr>
+                <td>@pair.Key</td>
+                <td>@pair.Value</td>
+            </tr>
+        }
+        </tbody>
+    </table>

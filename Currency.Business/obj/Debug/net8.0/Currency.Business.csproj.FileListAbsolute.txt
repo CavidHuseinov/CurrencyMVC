@@ -1,0 +1,15 @@
+D:\Projects\CurrencyMVC\Currency.Business\bin\Debug\net8.0\Currency.Business.deps.json
+D:\Projects\CurrencyMVC\Currency.Business\bin\Debug\net8.0\Currency.Business.dll
+D:\Projects\CurrencyMVC\Currency.Business\bin\Debug\net8.0\Currency.Business.pdb
+D:\Projects\CurrencyMVC\Currency.Business\bin\Debug\net8.0\Currency.Core.dll
+D:\Projects\CurrencyMVC\Currency.Business\bin\Debug\net8.0\Currency.Core.pdb
+D:\Projects\CurrencyMVC\Currency.Business\obj\Debug\net8.0\Currency.Business.csproj.AssemblyReference.cache
+D:\Projects\CurrencyMVC\Currency.Business\obj\Debug\net8.0\Currency.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CurrencyMVC\Currency.Business\obj\Debug\net8.0\Currency.Business.AssemblyInfoInputs.cache
+D:\Projects\CurrencyMVC\Currency.Business\obj\Debug\net8.0\Currency.Business.AssemblyInfo.cs
+D:\Projects\CurrencyMVC\Currency.Business\obj\Debug\net8.0\Currency.Business.csproj.CoreCompileInputs.cache
+D:\Projects\CurrencyMVC\Currency.Business\obj\Debug\net8.0\Currency.C0725E9B.Up2Date
+D:\Projects\CurrencyMVC\Currency.Business\obj\Debug\net8.0\Currency.Business.dll
+D:\Projects\CurrencyMVC\Currency.Business\obj\Debug\net8.0\refint\Currency.Business.dll
+D:\Projects\CurrencyMVC\Currency.Business\obj\Debug\net8.0\Currency.Business.pdb
+D:\Projects\CurrencyMVC\Currency.Business\obj\Debug\net8.0\ref\Currency.Business.dll

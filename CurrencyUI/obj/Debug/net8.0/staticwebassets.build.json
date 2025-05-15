@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "1KDKlbn+wwfaylIfhPGaijEhp5XNW/YWHlN0Ptn1Y3U=",
+  "Source": "CurrencyUI",
+  "BasePath": "_content/CurrencyUI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CurrencyUI\\wwwroot",
+      "Source": "CurrencyUI",
+      "ContentRoot": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\wwwroot\\",
+      "BasePath": "_content/CurrencyUI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\wwwroot\\css\\style.css",
+      "SourceId": "CurrencyUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\wwwroot\\",
+      "BasePath": "_content/CurrencyUI",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eqgmd6dymb",
+      "Integrity": "NlMHCYdEyOtO6Mt/LZgvyxUY1W7DDYO7A4Ha1NcIBHU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NlMHCYdEyOtO6Mt/LZgvyxUY1W7DDYO7A4Ha1NcIBHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 11:08:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NlMHCYdEyOtO6Mt/LZgvyxUY1W7DDYO7A4Ha1NcIBHU="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.eqgmd6dymb.css",
+      "AssetFile": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NlMHCYdEyOtO6Mt/LZgvyxUY1W7DDYO7A4Ha1NcIBHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 11:08:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eqgmd6dymb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NlMHCYdEyOtO6Mt/LZgvyxUY1W7DDYO7A4Ha1NcIBHU="
+        }
+      ]
+    }
+  ]
+}
