@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Projects\\CurrencyMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61A101C4-A61F-47EF-BA3B-0F18CE4D3667}|CurrencyUI\\CurrencyUI.csproj|d:\\projects\\currencymvc\\currencyui\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A101C4-A61F-47EF-BA3B-0F18CE4D3667}|CurrencyUI\\CurrencyUI.csproj|solutionrelative:currencyui\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61A101C4-A61F-47EF-BA3B-0F18CE4D3667}|CurrencyUI\\CurrencyUI.csproj|d:\\projects\\currencymvc\\currencyui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61A101C4-A61F-47EF-BA3B-0F18CE4D3667}|CurrencyUI\\CurrencyUI.csproj|solutionrelative:currencyui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A101C4-A61F-47EF-BA3B-0F18CE4D3667}|CurrencyUI\\CurrencyUI.csproj|d:\\projects\\currencymvc\\currencyui\\currencyui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61A101C4-A61F-47EF-BA3B-0F18CE4D3667}|CurrencyUI\\CurrencyUI.csproj|solutionrelative:currencyui\\currencyui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823A2D3B-A838-43F6-A096-94BB40C76F54}|Currency.Business\\Currency.Business.csproj|d:\\projects\\currencymvc\\currency.business\\currency.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{823A2D3B-A838-43F6-A096-94BB40C76F54}|Currency.Business\\Currency.Business.csproj|solutionrelative:currency.business\\currency.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A101C4-A61F-47EF-BA3B-0F18CE4D3667}|CurrencyUI\\CurrencyUI.csproj|d:\\projects\\currencymvc\\currencyui\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A101C4-A61F-47EF-BA3B-0F18CE4D3667}|CurrencyUI\\CurrencyUI.csproj|solutionrelative:currencyui\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61A101C4-A61F-47EF-BA3B-0F18CE4D3667}|CurrencyUI\\CurrencyUI.csproj|d:\\projects\\currencymvc\\currencyui\\views\\currency\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,11 +70,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "CurrencyUI",
+              "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\CurrencyUI.csproj",
+              "RelativeDocumentMoniker": "CurrencyUI\\CurrencyUI.csproj",
+              "ToolTip": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\CurrencyUI.csproj",
+              "RelativeToolTip": "CurrencyUI\\CurrencyUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T11:58:56.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Currency.Business",
+              "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\Currency.Business\\Currency.Business.csproj",
+              "RelativeDocumentMoniker": "Currency.Business\\Currency.Business.csproj",
+              "ToolTip": "D:\\Projects\\CurrencyMVC\\Currency.Business\\Currency.Business.csproj",
+              "RelativeToolTip": "Currency.Business\\Currency.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T11:58:52.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CurrencyVM.cs",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\Currency.Business\\ViewModels\\CurrencyVM.cs",
               "RelativeDocumentMoniker": "Currency.Business\\ViewModels\\CurrencyVM.cs",
@@ -74,12 +112,11 @@
               "RelativeToolTip": "Currency.Business\\ViewModels\\CurrencyVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:35:19.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:35:19.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CurrencyUI\\Views\\Shared\\_Layout.cshtml",
@@ -87,12 +124,11 @@
               "RelativeToolTip": "CurrencyUI\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T10:52:24.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:52:24.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Views\\Currency\\Index.cshtml",
               "RelativeDocumentMoniker": "CurrencyUI\\Views\\Currency\\Index.cshtml",
@@ -100,44 +136,30 @@
               "RelativeToolTip": "CurrencyUI\\Views\\Currency\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T10:52:09.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:52:09.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CurrencyController.cs",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Controllers\\CurrencyController.cs",
               "RelativeDocumentMoniker": "CurrencyUI\\Controllers\\CurrencyController.cs",
               "ToolTip": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Controllers\\CurrencyController.cs",
               "RelativeToolTip": "CurrencyUI\\Controllers\\CurrencyController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T10:27:34.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "CurrencyUI\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "CurrencyUI\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T10:52:25.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Program.cs",
               "RelativeDocumentMoniker": "CurrencyUI\\Program.cs",
               "ToolTip": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Program.cs",
               "RelativeToolTip": "CurrencyUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T10:32:12.359Z",
               "EditorCaption": ""
@@ -145,6 +167,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CurrencyUI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CurrencyUI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:52:25.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BusinessServiceRegistration.cs",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\Currency.Business\\BusinessServiceRegistration.cs",
               "RelativeDocumentMoniker": "Currency.Business\\BusinessServiceRegistration.cs",
@@ -152,12 +186,11 @@
               "RelativeToolTip": "Currency.Business\\BusinessServiceRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:31:42.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:31:42.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CurrencyService.cs",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\Currency.Business\\Services\\Implementations\\CurrencyService.cs",
               "RelativeDocumentMoniker": "Currency.Business\\Services\\Implementations\\CurrencyService.cs",
@@ -165,12 +198,11 @@
               "RelativeToolTip": "Currency.Business\\Services\\Implementations\\CurrencyService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:34:27.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:34:27.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CurrencyUI\\Views\\_ViewStart.cshtml",
@@ -178,12 +210,11 @@
               "RelativeToolTip": "CurrencyUI\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:11:35.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:11:35.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\CurrencyUI\\appsettings.json",
               "RelativeDocumentMoniker": "CurrencyUI\\appsettings.json",
@@ -191,12 +222,11 @@
               "RelativeToolTip": "CurrencyUI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-15T10:29:51.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:29:51.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CurrencySettings.cs",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\Currency.Core\\Settings\\CurrencySettings.cs",
               "RelativeDocumentMoniker": "Currency.Core\\Settings\\CurrencySettings.cs",
@@ -204,12 +234,11 @@
               "RelativeToolTip": "Currency.Core\\Settings\\CurrencySettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:29:19.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:29:19.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ICurrencyService.cs",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\Currency.Business\\Services\\Interfaces\\ICurrencyService.cs",
               "RelativeDocumentMoniker": "Currency.Business\\Services\\Interfaces\\ICurrencyService.cs",
@@ -217,13 +246,12 @@
               "RelativeToolTip": "Currency.Business\\Services\\Interfaces\\ICurrencyService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:34:23.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:34:23.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Currency.Core",
+              "DocumentIndex": 14,
+              "Title": "Currency.Core.csproj",
               "DocumentMoniker": "D:\\Projects\\CurrencyMVC\\Currency.Core\\Currency.Core.csproj",
               "RelativeDocumentMoniker": "Currency.Core\\Currency.Core.csproj",
               "ToolTip": "D:\\Projects\\CurrencyMVC\\Currency.Core\\Currency.Core.csproj",
@@ -232,10 +260,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-15T10:29:12.821Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         },
