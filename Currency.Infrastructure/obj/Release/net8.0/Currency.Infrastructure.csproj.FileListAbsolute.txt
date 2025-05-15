@@ -1,0 +1,17 @@
+D:\Projects\CurrencyMVC\Currency.Infrastructure\bin\Release\net8.0\Currency.Infrastructure.deps.json
+D:\Projects\CurrencyMVC\Currency.Infrastructure\bin\Release\net8.0\Currency.Infrastructure.dll
+D:\Projects\CurrencyMVC\Currency.Infrastructure\bin\Release\net8.0\Currency.Infrastructure.pdb
+D:\Projects\CurrencyMVC\Currency.Infrastructure\bin\Release\net8.0\Currency.Business.dll
+D:\Projects\CurrencyMVC\Currency.Infrastructure\bin\Release\net8.0\Currency.Core.dll
+D:\Projects\CurrencyMVC\Currency.Infrastructure\bin\Release\net8.0\Currency.Business.pdb
+D:\Projects\CurrencyMVC\Currency.Infrastructure\bin\Release\net8.0\Currency.Core.pdb
+D:\Projects\CurrencyMVC\Currency.Infrastructure\obj\Release\net8.0\Currency.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\CurrencyMVC\Currency.Infrastructure\obj\Release\net8.0\Currency.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CurrencyMVC\Currency.Infrastructure\obj\Release\net8.0\Currency.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\CurrencyMVC\Currency.Infrastructure\obj\Release\net8.0\Currency.Infrastructure.AssemblyInfo.cs
+D:\Projects\CurrencyMVC\Currency.Infrastructure\obj\Release\net8.0\Currency.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\CurrencyMVC\Currency.Infrastructure\obj\Release\net8.0\Currency.951BF18F.Up2Date
+D:\Projects\CurrencyMVC\Currency.Infrastructure\obj\Release\net8.0\Currency.Infrastructure.dll
+D:\Projects\CurrencyMVC\Currency.Infrastructure\obj\Release\net8.0\refint\Currency.Infrastructure.dll
+D:\Projects\CurrencyMVC\Currency.Infrastructure\obj\Release\net8.0\Currency.Infrastructure.pdb
+D:\Projects\CurrencyMVC\Currency.Infrastructure\obj\Release\net8.0\ref\Currency.Infrastructure.dll

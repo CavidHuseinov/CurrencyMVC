@@ -1,0 +1,67 @@
+/* Genel stil */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffaf0;
+    color: #333;
+    margin: 20px;
+}
+
+/* Başlık */
+h1 {
+    color: orange;
+    text-align: center;
+    margin-bottom: 5px;
+}
+p b{
+    font-weight: 600;
+    color: #000;
+}
+
+/* Bilgi paragrafı */
+.update-info {
+    text-align: center;
+    color: #555;
+    font-size: 0.9rem;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+/* Tablo düzeni */
+table {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    box-shadow: 0 2px 8px rgba(255, 165, 0, 0.3);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Başlık satırı */
+thead {
+    background-color: orange;
+    color: white;
+}
+
+/* Başlık hücreleri */
+thead th {
+    padding: 12px;
+    text-align: left;
+}
+
+/* Veri hücreleri */
+tbody td {
+    padding: 12px;
+    border-bottom: 1px solid #f0c27b;
+}
+
+/* Satır hover efekti */
+tbody tr:hover {
+    background-color: #fff3e0;
+    cursor: default;
+}
+
+/* Son satır alt çizgi kaldır */
+tbody tr:last-child td {
+    border-bottom: none;
+}
